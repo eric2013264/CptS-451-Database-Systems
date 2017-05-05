@@ -10,4 +10,6 @@ Python used for parsing JSON
 SQL used for insert, create table, and queries.
 C#, Visual Studio was used for the GUI
 
+JSON files are not included. Please see “Yelp Dataset Challenge” for the CSV file and JSON files. They were too large to be included.
+
 -Eric
